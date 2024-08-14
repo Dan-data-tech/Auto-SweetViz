@@ -1,1 +1,1 @@
-A repository for a beginner ---> EDA using AutoViz and SweetViz library
+A beginner's repository series ---> EDA using AutoViz and SweetViz library
